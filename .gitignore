@@ -3,3 +3,4 @@
 #more to ignore
 .vscode/
 .DS_Store/
+*.sqlite3
