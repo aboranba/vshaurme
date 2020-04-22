@@ -1,3 +1,5 @@
 #ignore .idea
+.idea/
+#added later because 1st didn't work:
 .idea/*.xml
 .idea/*.iml
